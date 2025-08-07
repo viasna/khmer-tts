@@ -1,0 +1,7 @@
+streamlit
+gTTS
+pydub
+langdetect
+google-cloud-texttospeech
+langcodes
+ffmpeg-python
