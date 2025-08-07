@@ -3,3 +3,4 @@ gtts
 google-cloud-texttospeech
 langdetect
 pillow
+pydub
