@@ -10,7 +10,7 @@ import os
 # pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Replace with your Telegram Bot Token
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8155659073:AAEQ7TOesJ9ukCc9Naq1iY4F63JP7RU-_Mk"
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
